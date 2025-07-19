@@ -92,15 +92,3 @@ This project is for educational and personal portfolio use.
 Adapt and extend as needed!
 
 *For any issues or contributions, please contact [aloc1345@gmail.com](mailto:aloc1345@gmail.com).*
-
-You can tailor this README further based on your deployment specifics or collaboration guidelines.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/db8c7a69-f64c-476a-9abb-21b28a5c0834/RESUME.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/3ce24ad8-2cbb-4a1b-b35a-8ce46b2630f9/jarvis.py
-[3] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/0a424a91-eb23-4af8-afc9-1f31772cb2ae/jarvis_commands_full.csv
-[4] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/a7e3a02b-d69b-4b3b-bfc9-0a48a8f15496/notepad.py
-[5] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/5a7e780a-7787-4e23-aa2a-1ac5ec347c3e/pdf.py
-[6] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/5103663e-d934-4259-b953-c88c7b3950c5/gui.py
-[7] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/7a574b06-592d-46bc-83a3-b8396648d727/hide_files.py
-[8] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/301b5cd6-764d-4c91-81a8-06632782bcf1/instagram.py
-[9] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/66228712/156c576f-fb00-4b9f-ab5b-0d3540b5f03d/intent_rec.py

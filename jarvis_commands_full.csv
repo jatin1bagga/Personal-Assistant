@@ -1,0 +1,236 @@
+text,label
+Open Notepad,open_notepad
+Launch Notepad,open_notepad
+Start Notepad,open_notepad
+Can you open Notepad,open_notepad
+I want to use Notepad,open_notepad
+Please open Notepad,open_notepad
+Access Notepad,open_notepad
+Activate Notepad,open_notepad
+Run Notepad,open_notepad
+Start writing on Notepad,open_notepad
+Fire up Notepad,open_notepad
+Bring up Notepad,open_notepad
+Launch the Notepad app,open_notepad
+Get Notepad ready,open_notepad
+Prepare Notepad,open_notepad
+Open up Notepad,open_notepad
+Let's use Notepad,open_notepad
+Notepad open please,open_notepad
+Can you start Notepad,open_notepad
+Boot up Notepad,open_notepad
+Open CMD,open_cmd
+Launch CMD,open_cmd
+Start Command Prompt,open_cmd
+Open command line,open_cmd
+Can you open CMD,open_cmd
+Bring up CMD,open_cmd
+Fire up command line,open_cmd
+Run CMD,open_cmd
+Start terminal,open_cmd
+Open my command prompt,open_cmd
+Access the terminal,open_cmd
+CMD open,open_cmd
+Activate CMD,open_cmd
+Bring the CMD up,open_cmd
+Start the black screen,open_cmd
+Boot up CMD,open_cmd
+I need CMD,open_cmd
+CMD now,open_cmd
+Launch terminal,open_cmd
+Fire up CMD,open_cmd
+Open Camera,open_camera
+Launch Camera,open_camera
+Start webcam,open_camera
+Can you open camera,open_camera
+Switch on camera,open_camera
+Camera on please,open_camera
+Activate camera,open_camera
+Run the webcam,open_camera
+Show me the camera,open_camera
+Fire up camera,open_camera
+Bring up webcam,open_camera
+Open my camera,open_camera
+Launch webcam,open_camera
+Start the webcam app,open_camera
+Switch to camera,open_camera
+Open the webcam,open_camera
+Turn on camera,open_camera
+Camera start,open_camera
+Can you start camera,open_camera
+Boot up webcam,open_camera
+Play music,play_music
+Start music,play_music
+Launch music player,play_music
+Can you play a song,play_music
+I want to hear music,play_music
+Play some songs,play_music
+Start the playlist,play_music
+Play random music,play_music
+Launch a song,play_music
+Fire up the music,play_music
+Open music,play_music
+Start my music player,play_music
+Play tunes,play_music
+Bring up music,play_music
+Launch music,play_music
+Put on some music,play_music
+Can you start music,play_music
+Play a track,play_music
+Begin playing music,play_music
+Start songs,play_music
+Open Google,open_google
+Launch Google,open_google
+Can you open Google,open_google
+Start Google,open_google
+Take me to Google,open_google
+Access Google,open_google
+Go to Google,open_google
+Bring up Google,open_google
+Open Google homepage,open_google
+Launch the Google site,open_google
+Visit Google,open_google
+Google please,open_google
+I want to Google something,open_google
+Start Chrome for Google,open_google
+Fire up Google,open_google
+Can you start Google,open_google
+Google open,open_google
+Open Google Chrome,open_google
+Access the Google website,open_google
+Load Google,open_google
+Open YouTube,open_youtube
+Launch YouTube,open_youtube
+Start YouTube,open_youtube
+Take me to YouTube,open_youtube
+Go to YouTube,open_youtube
+Can you open YouTube,open_youtube
+Access YouTube,open_youtube
+Bring up YouTube,open_youtube
+Start the YouTube site,open_youtube
+Launch the YouTube app,open_youtube
+Visit YouTube,open_youtube
+YouTube please,open_youtube
+Fire up YouTube,open_youtube
+Play YouTube,open_youtube
+Start Chrome for YouTube,open_youtube
+Can you start YouTube,open_youtube
+YouTube open,open_youtube
+Open YouTube in browser,open_youtube
+Access the YouTube homepage,open_youtube
+Load YouTube,open_youtube
+Send a message,send_message
+WhatsApp a friend,send_message
+Send WhatsApp message,send_message
+Message Ansh,send_message
+Send text to Kushagr,send_message
+Send a text,send_message
+I want to send a message,send_message
+Launch WhatsApp message,send_message
+Message on WhatsApp,send_message
+Fire up WhatsApp text,send_message
+Send WhatsApp,send_message
+Open WhatsApp chat,send_message
+Start a WhatsApp message,send_message
+Send a quick text,send_message
+WhatsApp someone,send_message
+Write a message,send_message
+Send message using WhatsApp,send_message
+Quick message please,send_message
+Send text message,send_message
+Start chat,send_message
+Search Wikipedia,search_wikipedia
+Find on Wikipedia,search_wikipedia
+Wikipedia search,search_wikipedia
+Look up on Wikipedia,search_wikipedia
+Tell me from Wikipedia,search_wikipedia
+Get information from Wikipedia,search_wikipedia
+Wikipedia details,search_wikipedia
+Search a topic on Wikipedia,search_wikipedia
+Wiki search,search_wikipedia
+Wikipedia lookup,search_wikipedia
+Find Wikipedia page,search_wikipedia
+Open Wikipedia info,search_wikipedia
+Start Wikipedia search,search_wikipedia
+Wikipedia topic search,search_wikipedia
+Wiki information,search_wikipedia
+Access Wikipedia,search_wikipedia
+Can you search Wikipedia,search_wikipedia
+Bring up Wikipedia,search_wikipedia
+Look Wikipedia,search_wikipedia
+Wikipedia search please,search_wikipedia
+What is my IP,get_ip_address
+Show my IP address,get_ip_address
+Tell me my IP,get_ip_address
+Find my IP address,get_ip_address
+IP address now,get_ip_address
+Get IP,get_ip_address
+Retrieve my IP address,get_ip_address
+IP address check,get_ip_address
+What’s the IP,get_ip_address
+Can you show IP,get_ip_address
+Show me the IP,get_ip_address
+Display my IP address,get_ip_address
+IP please,get_ip_address
+I need my IP,get_ip_address
+Fetch my IP address,get_ip_address
+IP lookup,get_ip_address
+Find IP,get_ip_address
+Tell my IP address,get_ip_address
+Check IP,get_ip_address
+IP address show,get_ip_address
+Play video on YouTube,play_youtube_video
+Play a YouTube video,play_youtube_video
+Search and play on YouTube,play_youtube_video
+Find video on YouTube,play_youtube_video
+Launch a YouTube video,play_youtube_video
+Open video on YouTube,play_youtube_video
+YouTube video play,play_youtube_video
+Start a video on YouTube,play_youtube_video
+Play random YouTube video,play_youtube_video
+Search a video to play,play_youtube_video
+Play something on YouTube,play_youtube_video
+Launch video on YouTube,play_youtube_video
+Stream video from YouTube,play_youtube_video
+Watch video on YouTube,play_youtube_video
+Find and play video,play_youtube_video
+Search a song on YouTube,play_youtube_video
+Play movie on YouTube,play_youtube_video
+YouTube video start,play_youtube_video
+YouTube video now,play_youtube_video
+Play clip on YouTube,play_youtube_video
+Send an email,send_email
+Write an email,send_email
+Email someone,send_email
+I want to send an email,send_email
+Compose an email,send_email
+Launch email sending,send_email
+Send a quick email,send_email
+Mail Ansh,send_email
+Send email to Kushagr,send_email
+Quick email,send_email
+Open email composer,send_email
+Start an email,send_email
+Send mail,send_email
+Write and send an email,send_email
+Start email,send_email
+Compose a mail,send_email
+Send official email,send_email
+Draft and send email,send_email
+Send email now,send_email
+Launch mail app,send_email
+Close Notepad,close_notepad
+Exit Notepad,close_notepad
+Quit Notepad,close_notepad
+Shut down Notepad,close_notepad
+Terminate Notepad,close_notepad
+Turn off Notepad,close_notepad
+Close the Notepad app,close_notepad
+End Notepad,close_notepad
+Close the Notepad window,close_notepad
+Exit the Notepad application,close_notepad
+Quit the Notepad program,close_notepad
+Shut Notepad,close_notepad
+Terminate the Notepad window,close_notepad
+Close the text editor,close_notepad
+End the Notepad,close_notepad
